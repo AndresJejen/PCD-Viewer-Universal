@@ -44,7 +44,7 @@ Visualization: http://pointclouds.org/documentation/tutorials/cloud_viewer.php#c
   - d. install one by one   
         - using this command   
         - ```sudo apt-get install libpcl-apps1.8 libpcl-common1.8 libpcl-conversions-dev libpcl-dev libpcl-doc libpcl-features1.8 libpcl-filters1.8```   
-        - ```sudo apt.get install libpcl-io1.8 libpcl-kdtree1.8 libpcl-keypoints1.8 libpcl-ml1.8 libpcl-msgs-dev libpcl-octree1.8 libpcl-outofcore1.8```   
+        - ```sudo apt-get install libpcl-io1.8 libpcl-kdtree1.8 libpcl-keypoints1.8 libpcl-ml1.8 libpcl-msgs-dev libpcl-octree1.8 libpcl-outofcore1.8```   
         - ```sudo apt-get install libpcl-people1.8 libpcl-recognition1.8 libpcl-registration1.8 libpcl-sample-consensus1.8 libpcl-search1.8```   
         - ```sudo apt-get install libpcl-segmentation1.8 libpcl-stereo1.8 libpcl-surface1.8 libpcl-tracking1.8 libpcl-visualization1.8```   
         - ```sudo apt-get install libpcl1 libpcl1-dev```       
