@@ -11,8 +11,8 @@ Visualization: http://pointclouds.org/documentation/tutorials/cloud_viewer.php#c
   - a. ```sudo apt get update```
   - b. Install CMake
      https://www.youtube.com/watch?v=HKPAmqDXbms
-  - c. ```apt-cache search libpcl```  (Search all libraries)
-        - (Result)  
+  - c. ```apt-cache search libpcl```  (Search all libraries)   
+        - (Result)    
         - ```
                   libpcl-apps1.8 - Point Cloud Library - apps library   
                   libpcl-common1.8 - Point Cloud Library - common library   
