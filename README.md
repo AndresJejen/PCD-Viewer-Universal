@@ -1,6 +1,6 @@
 # PCD-Viewer-Universal
 
-In this Repo ypu can find a simple code based on Examples of PCL library 
+In this Repo you can find a simple code based on Examples of PCL library 
 
 Visualization: http://pointclouds.org/documentation/tutorials/cloud_viewer.php#cloud-viewer
 
